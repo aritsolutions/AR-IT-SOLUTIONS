@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en" class="">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Primary SEO -->
+    <title>AR IT Solutions | CCTV Installation, Networking & Security Solutions in Hyderabad</title>
+    <meta name="description" content="AR IT Solutions – Hyderabad's trusted experts for CCTV installation, IP cameras, networking, WiFi setup, biometric systems, access control, and IT support. Serving Kukatpally, Miyapur, HITEC City & all areas. Call +91 9392815526." />
+    <meta name="keywords" content="CCTV installation Hyderabad, CCTV camera installation Kukatpally, IP camera installation Hyderabad, networking solutions Hyderabad, WiFi installation Hyderabad, biometric attendance system Hyderabad, access control system Hyderabad, network cabling Hyderabad, CCTV Miyapur, CCTV HITEC City, security camera installation, AR IT Solutions" />
+    <meta name="author" content="AR IT Solutions" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://aritsolutions.in/" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://aritsolutions.in/" />
+    <meta property="og:title" content="AR IT Solutions | CCTV Installation & Networking in Hyderabad" />
+    <meta property="og:description" content="Professional CCTV installation, networking, access control & IT solutions in Hyderabad. 1500+ projects, 8+ years experience. Free site survey. Call +91 9392815526." />
+    <meta property="og:image" content="https://images.pexels.com/photos/3205386/pexels-photo-3205386.jpeg" />
+    <meta property="og:locale" content="en_IN" />
+    <meta property="og:site_name" content="AR IT Solutions" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="AR IT Solutions | CCTV Installation & Networking in Hyderabad" />
+    <meta name="twitter:description" content="Professional security & networking solutions in Hyderabad. CCTV, IP cameras, WiFi, biometric systems. Free site survey. Call +91 9392815526." />
+    <meta name="twitter:image" content="https://images.pexels.com/photos/3205386/pexels-photo-3205386.jpeg" />
+
+    <!-- Local Business Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "AR IT Solutions",
+      "image": "https://aritsolutions.in/logo.png",
+      "description": "Professional CCTV installation, networking, access control, biometric systems, and IT support services in Hyderabad, Telangana.",
+      "url": "https://aritsolutions.in",
+      "telephone": "+91-9392815526",
+      "email": "info@aritsolutions.in",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jagadgirigutta",
+        "addressLocality": "Kukatpally",
+        "addressRegion": "Hyderabad, Telangana",
+        "postalCode": "500072",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.485,
+        "longitude": 78.3961
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+        "opens": "09:00",
+        "closes": "20:00"
+      },
+      "priceRange": "₹₹",
+      "areaServed": {
+        "@type": "City",
+        "name": "Hyderabad"
+      },
+      "sameAs": [
+        "https://www.facebook.com/aritsolutions",
+        "https://www.instagram.com/aritsolutions"
+      ]
+    }
+    </script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+    <script type="module" crossorigin src="/assets/index-CNTuf40d.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-C-jBcx7b.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
